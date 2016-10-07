@@ -1,0 +1,9 @@
+[package]
+name = "mandelbrot-sdl-cpu"
+version = "0.1.0"
+authors = ["Adrien Lamarque <ad@lamarque.fr>"]
+
+[dependencies]
+sdl2 = "0.20.1"
+time = "0.1"
+crossbeam = "0.2.9"
